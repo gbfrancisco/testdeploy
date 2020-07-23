@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/testingbullshit/static/css/main.5f361e03.chunk.css",
+    "main.js": "/testingbullshit/static/js/main.3b37ab95.chunk.js",
+    "main.js.map": "/testingbullshit/static/js/main.3b37ab95.chunk.js.map",
+    "runtime-main.js": "/testingbullshit/static/js/runtime-main.ea08dcd2.js",
+    "runtime-main.js.map": "/testingbullshit/static/js/runtime-main.ea08dcd2.js.map",
+    "static/js/2.e6d5e801.chunk.js": "/testingbullshit/static/js/2.e6d5e801.chunk.js",
+    "static/js/2.e6d5e801.chunk.js.map": "/testingbullshit/static/js/2.e6d5e801.chunk.js.map",
+    "index.html": "/testingbullshit/index.html",
+    "precache-manifest.ed5fcb4ac3cc356d4b0668310c7d2fc0.js": "/testingbullshit/precache-manifest.ed5fcb4ac3cc356d4b0668310c7d2fc0.js",
+    "service-worker.js": "/testingbullshit/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/testingbullshit/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e6d5e801.chunk.js.LICENSE.txt": "/testingbullshit/static/js/2.e6d5e801.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/testingbullshit/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea08dcd2.js",
+    "static/js/2.e6d5e801.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3b37ab95.chunk.js"
+  ]
+}
